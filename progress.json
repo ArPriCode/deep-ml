@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T03:57:39.571Z",
+  "generated_at": "2026-09-23T03:57:41.755Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -24,6 +24,32 @@
       "path": "problems/0002-transpose-of-a-matrix",
       "first_solved_at": "2026-09-13T19:02:34.148Z",
       "last_pushed_at": "2026-09-13T19:02:34.148Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:1387": {
+      "kind": "problem",
+      "id": "1387",
+      "title": "Looped Transformer Stack Forward Pass",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1387",
+      "path": "problems/1387-looped-transformer-stack-forward-pass",
+      "first_solved_at": "2026-09-14T03:50:18.622Z",
+      "last_pushed_at": "2026-09-14T03:50:18.622Z",
+      "language": "python",
+      "lines": 37
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-09-14T03:51:01.445Z",
+      "last_pushed_at": "2026-09-14T03:51:01.445Z",
       "language": "python",
       "lines": 8
     }
