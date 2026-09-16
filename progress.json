@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T03:57:43.492Z",
+  "generated_at": "2026-09-23T03:57:45.290Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -65,6 +65,32 @@
       "last_pushed_at": "2026-09-15T11:14:18.939Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:313": {
+      "kind": "problem",
+      "id": "313",
+      "title": "Numerical Gradient Checking",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/313",
+      "path": "problems/0313-numerical-gradient-checking",
+      "first_solved_at": "2026-09-16T05:28:19.390Z",
+      "last_pushed_at": "2026-09-16T05:28:19.390Z",
+      "language": "python",
+      "lines": 45
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-09-16T05:29:01.773Z",
+      "last_pushed_at": "2026-09-16T05:29:01.773Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
