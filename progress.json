@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T03:57:48.799Z",
+  "generated_at": "2026-09-23T03:57:50.664Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -117,6 +117,32 @@
       "last_pushed_at": "2026-09-18T13:12:50.736Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:541": {
+      "kind": "problem",
+      "id": "541",
+      "title": "Differential Sarsa Algorithm",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/541",
+      "path": "problems/0541-differential-sarsa-algorithm",
+      "first_solved_at": "2026-09-19T08:31:23.910Z",
+      "last_pushed_at": "2026-09-19T08:31:23.910Z",
+      "language": "python",
+      "lines": 58
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-09-19T08:31:56.816Z",
+      "last_pushed_at": "2026-09-19T08:31:56.816Z",
+      "language": "python",
+      "lines": 2
     }
   }
 }
