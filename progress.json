@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T03:57:50.664Z",
+  "generated_at": "2026-09-23T03:57:52.454Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -143,6 +143,32 @@
       "last_pushed_at": "2026-09-19T08:31:56.816Z",
       "language": "python",
       "lines": 2
+    },
+    "problem:825": {
+      "kind": "problem",
+      "id": "825",
+      "title": "BIRCH Clustering for Large Datasets",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/825",
+      "path": "problems/0825-birch-clustering-for-large-datasets",
+      "first_solved_at": "2026-09-20T07:52:59.626Z",
+      "last_pushed_at": "2026-09-20T07:52:59.626Z",
+      "language": "python",
+      "lines": 73
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-09-20T07:53:23.913Z",
+      "last_pushed_at": "2026-09-20T07:53:23.913Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
