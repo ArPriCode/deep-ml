@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T03:57:52.454Z",
+  "generated_at": "2026-09-23T03:57:54.300Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -169,6 +169,32 @@
       "last_pushed_at": "2026-09-20T07:53:23.913Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:768": {
+      "kind": "problem",
+      "id": "768",
+      "title": "Rejection Sampling Best-of-K Selection",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/768",
+      "path": "problems/0768-rejection-sampling-best-of-k-selection",
+      "first_solved_at": "2026-09-21T03:32:13.919Z",
+      "last_pushed_at": "2026-09-21T03:32:13.919Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-09-21T03:32:41.759Z",
+      "last_pushed_at": "2026-09-21T03:32:41.759Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
