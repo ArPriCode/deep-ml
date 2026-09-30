@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T05:54:02.157Z",
+  "generated_at": "2026-09-30T05:55:19.298Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -299,6 +299,19 @@
       "last_pushed_at": "2026-09-29T05:54:01.459Z",
       "language": "python",
       "lines": 24
+    },
+    "problem:597": {
+      "kind": "problem",
+      "id": "597",
+      "title": "Successor Representation Learning",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/597",
+      "path": "problems/0597-successor-representation-learning",
+      "first_solved_at": "2026-09-30T05:55:18.056Z",
+      "last_pushed_at": "2026-09-30T05:55:18.056Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
