@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:19:59.164Z",
+  "generated_at": "2026-10-03T07:59:21.821Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -364,6 +364,19 @@
       "last_pushed_at": "2026-10-02T09:19:48.130Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:876": {
+      "kind": "problem",
+      "id": "876",
+      "title": "Analyze Singular Value Spectrum to Determine Intrinsic Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/876",
+      "path": "problems/0876-analyze-singular-value-spectrum-to-determine-intrinsic-rank",
+      "first_solved_at": "2026-10-03T07:59:21.161Z",
+      "last_pushed_at": "2026-10-03T07:59:21.161Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
