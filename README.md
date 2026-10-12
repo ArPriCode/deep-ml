@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**37** solved · 37 problems · 0 labs · 0 math
+**38** solved · 38 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Toy Models of Superposition: Feature Reconstruction](https://www.deep-ml.com/problems/862) | medium | 2026-09-18 | [solution](problems/0862-toy-models-of-superposition-feature-reconstruction) |
 | [Zero-Copy Batch Data Loading from Shared Memory](https://www.deep-ml.com/problems/659) | medium | 2026-10-10 | [solution](problems/0659-zero-copy-batch-data-loading-from-shared-memory) |
 | [Differential Sarsa Algorithm](https://www.deep-ml.com/problems/541) | hard | 2026-09-19 | [solution](problems/0541-differential-sarsa-algorithm) |
+| [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-12 | [solution](problems/0085-positional-encoding-calculator) |
 | [Successor Representation Learning](https://www.deep-ml.com/problems/597) | hard | 2026-09-30 | [solution](problems/0597-successor-representation-learning) |
 | [Trade Compute for Memory with Gradient Checkpointing](https://www.deep-ml.com/problems/1342) | hard | 2026-09-23 | [solution](problems/1342-trade-compute-for-memory-with-gradient-checkpointing) |
 
