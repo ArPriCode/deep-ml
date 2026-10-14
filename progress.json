@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T08:43:04.367Z",
+  "generated_at": "2026-10-14T05:24:50.086Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -507,6 +507,19 @@
       "last_pushed_at": "2026-10-13T08:43:03.069Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:1057": {
+      "kind": "problem",
+      "id": "1057",
+      "title": "Balance Dataset via Undersampling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1057",
+      "path": "problems/1057-balance-dataset-via-undersampling",
+      "first_solved_at": "2026-10-14T05:24:49.363Z",
+      "last_pushed_at": "2026-10-14T05:24:49.363Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
