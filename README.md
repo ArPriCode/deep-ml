@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**45** solved · 45 problems · 0 labs · 0 math
+**46** solved · 46 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-09-14 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-09-19 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-10-15 | [solution](problems/1102-select-specific-columns) |
+| [Streaming ASR Latency Budget: Chunk Size, Real-Time Factor and Round Trip](https://www.deep-ml.com/problems/1442) | easy | 2026-10-20 | [solution](problems/1442-streaming-asr-latency-budget-chunk-size-real-time-factor-and-round-trip) |
 | [Tinygrad: Implement Dropout from Scratch](https://www.deep-ml.com/problems/922) | easy | 2026-10-13 | [solution](problems/0922-tinygrad-implement-dropout-from-scratch) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-13 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Analyze Singular Value Spectrum to Determine Intrinsic Rank](https://www.deep-ml.com/problems/876) | medium | 2026-10-03 | [solution](problems/0876-analyze-singular-value-spectrum-to-determine-intrinsic-rank) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T02:19:33.957Z",
+  "generated_at": "2026-10-20T12:01:49.137Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -585,6 +585,19 @@
       "last_pushed_at": "2026-10-19T02:19:22.817Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:1442": {
+      "kind": "problem",
+      "id": "1442",
+      "title": "Streaming ASR Latency Budget: Chunk Size, Real-Time Factor and Round Trip",
+      "difficulty": "easy",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1442",
+      "path": "problems/1442-streaming-asr-latency-budget-chunk-size-real-time-factor-and-round-trip",
+      "first_solved_at": "2026-10-20T12:01:48.263Z",
+      "last_pushed_at": "2026-10-20T12:01:48.263Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
