@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T03:47:50.473Z",
+  "generated_at": "2026-10-23T03:48:06.299Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -634,7 +634,7 @@
       "url": "https://www.deep-ml.com/problems/1032",
       "path": "problems/1032-tokens-per-second-throughput-from-inference-intervals",
       "first_solved_at": "2026-10-23T03:47:49.653Z",
-      "last_pushed_at": "2026-10-23T03:47:49.653Z",
+      "last_pushed_at": "2026-10-23T03:48:05.115Z",
       "language": "python",
       "lines": 28
     }
