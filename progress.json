@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T03:48:06.299Z",
+  "generated_at": "2026-10-24T00:53:38.216Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -637,6 +637,19 @@
       "last_pushed_at": "2026-10-23T03:48:05.115Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:678": {
+      "kind": "problem",
+      "id": "678",
+      "title": "RL Training GPU Utilization Tracker",
+      "difficulty": "easy",
+      "category": "Performance Optimization",
+      "url": "https://www.deep-ml.com/problems/678",
+      "path": "problems/0678-rl-training-gpu-utilization-tracker",
+      "first_solved_at": "2026-10-24T00:53:37.473Z",
+      "last_pushed_at": "2026-10-24T00:53:37.473Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
