@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T01:23:31.598Z",
+  "generated_at": "2026-10-30T01:24:46.134Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -715,6 +715,19 @@
       "last_pushed_at": "2026-10-29T01:50:05.330Z",
       "language": "python",
       "lines": 45
+    },
+    "problem:1396": {
+      "kind": "problem",
+      "id": "1396",
+      "title": "Parallel K-Means with Map-Reduce Assignment",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1396",
+      "path": "problems/1396-parallel-k-means-with-map-reduce-assignment",
+      "first_solved_at": "2026-10-30T01:24:34.983Z",
+      "last_pushed_at": "2026-10-30T01:24:34.983Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
