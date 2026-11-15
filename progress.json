@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T09:49:31.411Z",
+  "generated_at": "2026-11-15T04:31:53.671Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -936,6 +936,19 @@
       "last_pushed_at": "2026-11-14T09:49:30.559Z",
       "language": "python",
       "lines": 65
+    },
+    "problem:1244": {
+      "kind": "problem",
+      "id": "1244",
+      "title": "Pooled Mean and Pooled Standard Deviation from Summary Stats",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1244",
+      "path": "problems/1244-pooled-mean-and-pooled-standard-deviation-from-summary-stats",
+      "first_solved_at": "2026-11-15T04:31:42.344Z",
+      "last_pushed_at": "2026-11-15T04:31:42.344Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
