@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**77** solved · 75 problems · 2 labs · 0 math
+**78** solved · 76 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-09-24 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Forward Diffusion Process](https://www.deep-ml.com/problems/303) | medium | 2026-09-25 | [solution](problems/0303-forward-diffusion-process) |
 | [Guidance Attention Mask for Chunked Video](https://www.deep-ml.com/problems/461) | medium | 2026-10-16 | [solution](problems/0461-guidance-attention-mask-for-chunked-video) |
+| [Identity Preference Optimization (IPO) Loss](https://www.deep-ml.com/problems/1262) | medium | 2026-11-20 | [solution](problems/1262-identity-preference-optimization-ipo-loss) |
 | [Image Segmentation via K-Means Clustering](https://www.deep-ml.com/problems/832) | medium | 2026-11-04 | [solution](problems/0832-image-segmentation-via-k-means-clustering) |
 | [Implement Gradient Boosting Regressor Step](https://www.deep-ml.com/problems/344) | medium | 2026-10-29 | [solution](problems/0344-implement-gradient-boosting-regressor-step) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-19 | [solution](problems/0192-implement-the-huber-loss-function) |
