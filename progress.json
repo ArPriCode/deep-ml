@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T05:51:40.137Z",
+  "generated_at": "2026-11-21T08:34:07.199Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1014,6 +1014,19 @@
       "last_pushed_at": "2026-11-20T05:51:29.268Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:1901": {
+      "kind": "problem",
+      "id": "1901",
+      "title": "Graph Auto-Encoder: GCN Encoder, Inner-Product Decoder and Reconstruction BCE",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1901",
+      "path": "problems/1901-graph-auto-encoder-gcn-encoder-inner-product-decoder-and-reconstruction-bce",
+      "first_solved_at": "2026-11-21T08:34:06.305Z",
+      "last_pushed_at": "2026-11-21T08:34:06.305Z",
+      "language": "python",
+      "lines": 82
     }
   }
 }
