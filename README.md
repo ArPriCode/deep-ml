@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**81** solved · 79 problems · 2 labs · 0 math
+**82** solved · 80 problems · 2 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -88,6 +88,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Floor-Division and Modulo Folding for Index Math](https://www.deep-ml.com/problems/1513) | hard | 2026-11-14 | [solution](problems/1513-floor-division-and-modulo-folding-for-index-math) |
 | [Laplace-Approximate Bayesian Logistic Regression: Monte Carlo and Probit Predictives](https://www.deep-ml.com/problems/1809) | hard | 2026-11-26 | [solution](problems/1809-laplace-approximate-bayesian-logistic-regression-monte-carlo-and-probit-predictives) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-12 | [solution](problems/0085-positional-encoding-calculator) |
+| [Quantile Balancing: Solve for the Per-Expert Bias from Score Quantiles, Average, Smooth and Re-Center](https://www.deep-ml.com/problems/1982) | hard | 2026-11-28 | [solution](problems/1982-quantile-balancing-solve-for-the-per-expert-bias-from-score-quantiles-average-smooth-and-re-center) |
 | [Successor Representation Learning](https://www.deep-ml.com/problems/597) | hard | 2026-09-30 | [solution](problems/0597-successor-representation-learning) |
 | [Trade Compute for Memory with Gradient Checkpointing](https://www.deep-ml.com/problems/1342) | hard | 2026-09-23 | [solution](problems/1342-trade-compute-for-memory-with-gradient-checkpointing) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-10-22 | [solution](problems/0211-two-sample-t-test-implementation) |
